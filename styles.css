@@ -3,7 +3,8 @@ h1 {background-color: red;
       font-family: "Arial", "Papyrus", fantasy;
       border-radius: 12pt;}
 body {background-image: linear-gradient(to top left, #0503b0 0%, #0cb1b7 100%);
-      text-align: center;}
+      text-align: center;
+      min-height: 100vh;}
 h2 {background-color: black;
       text-color: white;
       text-align: center;
