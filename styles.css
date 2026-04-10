@@ -1,0 +1,20 @@
+h1 {background-color: red;
+      text-align: center;
+      font-family: "Arial", "Papyrus", fantasy;
+      border-radius: 12pt;}
+body {background-image: linear-gradient(to top left, #0503b0 0%, #0cb1b7 100%);
+      text-align: center;}
+h2 {background-color: black;
+      text-color: white;
+      text-align: center;
+      font-family: "Arial", "Papyrus", fantasy;
+      border-radius: 12pt;}
+h3 {text-align: center;
+      background-color: darksalmon;
+      font-family: "Arial", "Papyrus", fantasy;
+      border-radius: 12pt;}
+h4 {text-align: center;
+      background-color: lightgrey;
+      font-family: "Arial", "Papyrus", fantasy;
+      border-radius: 12pt;}
+button1 {font-family: "Arial", "Papyrus", fantasy;}
